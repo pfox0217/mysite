@@ -1,0 +1,42 @@
+[1mdiff --git a/.idea/workspace.xml b/.idea/workspace.xml[m
+[1mindex 7932a89..90d71f6 100644[m
+[1m--- a/.idea/workspace.xml[m
+[1m+++ b/.idea/workspace.xml[m
+[36m@@ -4,7 +4,9 @@[m
+     <option name="autoReloadType" value="SELECTIVE" />[m
+   </component>[m
+   <component name="ChangeListManager">[m
+[31m-    <list default="true" id="47ee9211-72a7-4b60-b577-396da227704c" name="Changes" comment="" />[m
+[32m+[m[32m    <list default="true" id="47ee9211-72a7-4b60-b577-396da227704c" name="Changes" comment="">[m
+[32m+[m[32m      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />[m
+[32m+[m[32m    </list>[m
+     <option name="SHOW_DIALOG" value="false" />[m
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />[m
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />[m
+[36m@@ -35,7 +37,7 @@[m
+     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,[m
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,[m
+     &quot;last_opened_file_path&quot;: &quot;D:/project/mysite/static&quot;,[m
+[31m-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;[m
+[32m+[m[32m    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;[m
+   }[m
+ }</component>[m
+   <component name="RecentsManager">[m
+[36m@@ -57,4 +59,15 @@[m
+     </task>[m
+     <servers />[m
+   </component>[m
+[31m-</project>[m
+\ No newline at end of file[m
+[32m+[m[32m  <component name="Vcs.Log.Tabs.Properties">[m
+[32m+[m[32m    <option name="TAB_STATES">[m
+[32m+[m[32m      <map>[m
+[32m+[m[32m        <entry key="MAIN">[m
+[32m+[m[32m          <value>[m
+[32m+[m[32m            <State />[m
+[32m+[m[32m          </value>[m
+[32m+[m[32m        </entry>[m
+[32m+[m[32m      </map>[m
+[32m+[m[32m    </option>[m
+[32m+[m[32m  </component>[m
+[32m+[m[32m</project>[m
