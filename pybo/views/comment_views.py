@@ -67,7 +67,7 @@ def comment_delete_question(request, comment_id):
 
 
 @login_required(login_url='common:login')
-def comment_create_answer(request, question_id):
+def comment_create_answer(request, answer_id):
     """
     pybo 답변 댓글 등록
     """
